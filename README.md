@@ -77,18 +77,27 @@ npm start   # http://localhost:3002
 
 ---
 
-## 🤝 Collaboration & My Contribution
+## 🧩 Team Contributions Breakdown
 
-This project was developed as a **collaborative hackathon project**.
+This project was built as a **team hackathon effort**, with responsibilities divided across members.
 
-My contributions focused on:
+### My Contributions
+- AI Resume Analyzer backend using **FastAPI**
+- Resume parsing using **OCR (pytesseract, OpenCV, pdf2image)**
+- AI integration using **Ollama / Hugging Face**
+- API design, request handling, and data processing
+- Assisted with **Monaco Editor** setup and integration
 
-* Building the **AI Resume Analyzer** using **FastAPI**
-* Integrating AI models with **Ollama** and **Hugging Face Transformers**
-* Assisting with the **Monaco Editor** setup for live code collaboration
-* Supporting cross-service integration and AI feature design
+### Team Contributions
+- Authentication (**Clerk**)
+- Media storage (**Cloudinary**)
+- Real-time video & audio (**LiveKit**)
+- Database design and integration (**MongoDB**)
+- Secure code execution & compilation (**Judge0 API**)
+- Full frontend architecture and deployment
 
-The final system integration and orchestration were completed collaboratively by the team.
+This repository highlights my learning and contributions while acknowledging the collaborative nature of the project.
+
 
 ---
 
